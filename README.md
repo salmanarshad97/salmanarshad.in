@@ -1,4 +1,4 @@
-# ahsankhan26.github.io
+# https://salmanarshad.in
 
 Personal Static Website
 
